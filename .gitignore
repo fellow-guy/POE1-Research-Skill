@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.reference-cache/
+.env
+.env.*
+!.env.example
