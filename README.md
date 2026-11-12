@@ -14,10 +14,10 @@ Clone into the skills directory for the tool you use:
 
 ```sh
 # Codex
-git clone https://github.com/fellow-guy/poe1-research.git ~/.codex/skills/poe1-research
+git clone https://github.com/fellow-guy/POE1-Research-Skill.git ~/.codex/skills/poe1-research
 
 # Claude Code (alternative)
-git clone https://github.com/fellow-guy/poe1-research.git ~/.claude/skills/poe1-research
+git clone https://github.com/fellow-guy/POE1-Research-Skill.git ~/.claude/skills/poe1-research
 ```
 
 For a shared installation, clone once to `~/.agents/skills/poe1-research` and link your tools' skill directories to that checkout. Preserve existing installations and directory links. A private repository requires GitHub access.
